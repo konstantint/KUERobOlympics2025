@@ -21,4 +21,7 @@ Use the d-pad to navigate the menu and choose a game, click the d-pad to start t
 
 [Here](https://www.youtube.com/watch?v=47RVRHbY4q4)'s a video showcasing the games in action.
 
+## Licence
 
+* The contents of the `games/` directory and `code.py` can be regarded public domain (or MIT-licensed, if you really need a license).
+* The contents of the `lib/` directory contains a selection of CircuitPython libraries that were preinstalled onto the device and is Copyright (C) Adafruit, subject to its own MIT license.
